@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RazManva
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently teaching Python, Java and C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me razmanva101@gmail.com
 
